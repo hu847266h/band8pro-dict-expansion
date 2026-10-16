@@ -1,0 +1,6 @@
+upload-*.bin
+ecdict.csv
+dic-original.bin
+build/
+*.rpk
+__pycache__/
